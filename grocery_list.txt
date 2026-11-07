@@ -4,3 +4,6 @@ rice
 chicken
 reis 
 sop
+info
+from 
+ipd
